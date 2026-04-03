@@ -1,2 +1,3 @@
 webhook concept
 pollscm when commit happens only
+build periodicall means particular time buiild will happen wheter commit happens or not
